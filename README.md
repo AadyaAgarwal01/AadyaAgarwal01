@@ -1,59 +1,54 @@
-# Hi, I’m Aadya — a frontend developer with a passion for Finance and AI/ML
+<h1 align="center">Hi 👋, I'm <span style="color:#ff66cc">Aadya Agarwal</span></h1>
+<h3 align="center" style="color:#00bcd4">UI/UX DESIGNER</h3>
 
-<div align="center">
-  
-  <h1>
-    <span id="typed"></span>
-    <span id="cursor">|</span>
-  </h1>
-  
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/AI-ML-informational?style=flat&logo=pytorch&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=blender&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4F46E5"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4F46E5"/>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" alt="Animated girl coding" width="300px" />
+</p>
+
+<p align="center">
+  🌱 I’m currently learning <b>JavaScript, React</b>  
+  <br/>
+  📫 Reach me on <a href="https://www.linkedin.com/in/aadya-agarwal-a4780a330/" target="_blank"><b>LinkedIn</b></a>
+</p>
 
 ---
 
-## 🚀 Skills
+<h3 align="center">🌐 Connect with me</h3>
 
-- **Languages & Frameworks:** Python, React, JavaScript (Vanilla & React), Dart, Node.js  
-- **Machine Learning & AI:** ML, Jupyter Notebook  
-- **Design:** Figma, Blender  
-- **Web:** HTML5, CSS3  
-
----
-
-## 🌐 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/aadya-agarwal-a4780a330/)
-- [Instagram](https://www.instagram.com/iconic_me7/)
+<p align="center">
+  <a href="https://instagram.com/iconic_me7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/astromyst" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-<!-- Simple Typing Animation using JS (works on GitHub profile!) -->
-<script>
-  const text = "Hi, I’m Aadya — a frontend developer with a passion for Finance and AI/ML";
-  let i = 0;
-  function typing() {
-    if (i < text.length) {
-      document.getElementById('typed').innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typing, 60);
-    }
-  }
-  typing();
-  setInterval(() => {
-    const cursor = document.getElementById('cursor');
-    cursor.style.opacity = (cursor.style.opacity === "0" ? "1" : "0");
-  }, 500);
-</script>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<!-- If you want a GIF or SVG animation instead, just ask! -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadyaagarwal01&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aadyaagarwal01&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadyaagarwal01&theme=radical" />
+</p>
